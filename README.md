@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I’m currently studying on Yandex.Practicum
+🔭 I’m currently studying on Yandex.Practicum<br>
 🌱 I’m currently learning JavaScript, TypeScript, React
 
 # 💻 Tech Stack:
