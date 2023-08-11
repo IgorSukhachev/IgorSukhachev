@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/IgorSuhachov/IgorSuhachov/blob/main/assets/ghoul.gif" alt="Header">
+</p>
+
+
 # 💫 About Me:
 
 🔭 I’m currently studying on Yandex.Practicum<br>
