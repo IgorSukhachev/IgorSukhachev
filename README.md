@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/IgorSuhachov/IgorSuhachov/blob/main/assets/ghoul.gif" alt="Header">
-</p>
-
 # 💫 Обо мне:
 
 Привет! Я - фронтенд разработчик с огромным интересом к созданию удивительных пользовательских интерфейсов. Мой стек технологий включает в себя React, TypeScript и JavaScript. В мире быстро меняющихся трендов веб-разработки я стремлюсь оставаться в курсе последних новостей и лучших практик, чтобы создавать современные, эффективные и масштабируемые веб-приложения.
@@ -15,6 +11,10 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=IgorSuhachov&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=IgorSuhachov&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSuhachov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IgorSuhachov&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorSuhachov&theme=dark&hide_border=false" alt="GitHub Streak">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSuhachov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+</div>
